@@ -1,5 +1,6 @@
 # TubeTracker
+Please refer to the provided manual. 
 
-A working version of the application will be added by July 31st. 
+Code has been tested and built on Mac
 
-I am currently cleaning the code and working through last minutes bugs
+Enjoy
