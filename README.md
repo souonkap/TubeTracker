@@ -5,7 +5,7 @@ Code has been tested and built on Mac
 
 Enjoy
 
-Licence:
+License:
 
 Copyright 2024, Brown University, Providence, RI.
 
